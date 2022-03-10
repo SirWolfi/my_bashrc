@@ -23,7 +23,7 @@ get-basename() {
 	echo $NAME
 }
 
-# compiles a full directionary
+# compiles a full directory
 # # usage: compileCpp <dir>
 compileCpp() {
 	local dir
